@@ -1,0 +1,10 @@
+torch
+torchvision
+diffusers
+transformers
+streamlit
+streamlit-drawable-canvas
+numpy
+Pillow
+matplotlib
+pyngrok
